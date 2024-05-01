@@ -1,0 +1,1 @@
+Getters and setters are used to define methods on a class which are then used as if they are properties
